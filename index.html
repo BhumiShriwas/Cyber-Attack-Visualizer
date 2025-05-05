@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cyber Attack Visualizer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Cyber Attack Visualizer</h1>
+
+    <select id="attackType">
+      <option value="sql">SQL Injection</option>
+      <option value="phishing">Phishing</option>
+    </select>
+
+    <button id="startBtn">▶ Start Simulation</button>
+
+    <canvas id="canvas"></canvas>
+  </div>
+
+  <!-- Anime.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
