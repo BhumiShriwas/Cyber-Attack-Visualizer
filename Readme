@@ -1,14 +1,13 @@
- # 🛡️ Cyber Attack Visualizer
+ 🛡️ Cyber Attack Visualizer
 
-A simple, interactive web-based simulator that visually demonstrates two common cyber attacks — **SQL Injection** and **Phishing** — using HTML5 Canvas and JavaScript.
+A simple, interactive web-based simulator that visually demonstrates two common cyber attacks — SQL Injection and Phishing — using HTML5 Canvas and JavaScript.
 
 ![preview](preveiw.gif)
 
 
+🚀 Features
 
-## 🚀 Features
-
-- 🎯 Simulates **SQL Injection** and **Phishing** visually
+- 🎯 Simulates SQL Injection and Phishing visually
 - 🔊 Plays alert sound on successful attack
 - 🎨 Smooth animations with HTML Canvas
 - 🌙 Dark Mode UI
@@ -16,18 +15,17 @@ A simple, interactive web-based simulator that visually demonstrates two common 
 
 
 
-## 🧰 Tech Stack
+🧰 Tech Stack
 
-- **HTML5 + CSS3**
-- **JavaScript**
-- **Canvas API**
+- HTML5 + CSS3
+- JavaScript
+- Canvas API
 - Optional: [anime.js](https://animejs.com/) for advanced animations
 
 
+ 🎮 How to Run
 
-## 🎮 How to Run
-
-1. **Clone this repo**:
+1. Clone this repo:
   
    git clone https://github.com/BhumiShriwas/cyber-attack-visualizer.git
    cd cyber-attack-visualizer
